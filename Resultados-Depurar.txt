@@ -1,0 +1,8 @@
+﻿'Ejercicio15.exe' (CoreCLR: DefaultDomain): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.24\System.Private.CoreLib.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Ejercicio15.exe' (CoreCLR: clrhost): 'C:\Users\manue\OneDrive\Desktop\Programacion\Ejercicio15\Ejercicio15\bin\Debug\netcoreapp3.1\Ejercicio15.dll' cargado. Símbolos cargados.
+'Ejercicio15.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.24\System.Runtime.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Ejercicio15.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.24\System.Console.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Ejercicio15.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.24\System.Threading.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Ejercicio15.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.24\System.Runtime.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+'Ejercicio15.exe' (CoreCLR: clrhost): 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\3.1.24\System.Text.Encoding.Extensions.dll' cargado. Se omitió la carga de símbolos. El módulo está optimizado y la opción del depurador 'Sólo mi código' está habilitada.
+El programa '[22480] Ejercicio15.exe' terminó con código 0 (0x0).
